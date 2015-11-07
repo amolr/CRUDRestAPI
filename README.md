@@ -12,4 +12,5 @@ The main code is in the below folders
 4. CrudWebAPI/CrudWebAPI/App_Data/ : Data used for Testing the Web API locally and in unit test
 5. CrudWebAPI/CrudWebAPI/Models/ : Model files
 6. CrudWebAPI/CrudWebAPI/Repository/ : Interface to interact with a persistent layer. Also includes implementation of the interface using File system.
+7. CrudWebAPI/CrudWebAPI.Tests : Contains unit tests for the REST API
 
